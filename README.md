@@ -24,5 +24,5 @@ With the plethora of CLI commands to learn, it is helpful to have an API which r
   
 </ul>
 <h2> Application Architecture </h2>
-![91676248-3553ad80-eb0d-11ea-8fc7-e674ef0784a4](https://user-images.githubusercontent.com/60621648/145760452-198b3a5d-6c5a-46f4-a6a9-eaa1e4f54ae3.png)
+
 
