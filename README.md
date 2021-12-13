@@ -28,7 +28,9 @@ With the plethora of CLI commands to learn, it is helpful to have an API which r
 ![](images/arch.png)
 
 <h2> Website Look: </h2>
+
 ![](images/api.PNG)
 
 <h2> API Endpoints (CRUD): </h2>
+
 ![](images/endpoints.png)
