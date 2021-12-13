@@ -23,6 +23,8 @@ With the plethora of CLI commands to learn, it is helpful to have an API which r
   <li>Testing API Endpoints (SwaggerUI & RESTED)</li>
   
 </ul>
-<h2> Application Architecture </h2>
+<h2> Application Architecture: </h2>
+
+![](images/arch.png)
 
 
