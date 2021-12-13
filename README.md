@@ -35,16 +35,4 @@ With the plethora of CLI commands to learn, it is helpful to have an API which r
 
 ![](images/endpoints.png)
 
-<h2>Sample endpoints using Postman:</h2>
-<h3>[HttpPost] Creates a new command, returns Location header with link to resource, as well as the '201 Created' status code.
-</h3>
-
-![](images/post.png)
-
-<h3>[HttpPatch] Updates the value of the howTo attribute and returns the '204 No Content' status code.
-
-</h3>
-
-![](images/patch.png)
-
 
