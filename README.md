@@ -1,6 +1,8 @@
 # Commando
 With the plethora of CLI commands to learn, it is helpful to have an API which returns us commands that we often forget. (C#, ASP.NET Core, MVC, SQL Server, REST API)
-The purpose of this project is to learn and practice concepts related to:
+<br />
+
+<h2>The purpose of this project is to learn and practice concepts related to: </h2>
 <ul> 
   <li>Building a REST API</li>
   <li>.NET Core</li>
